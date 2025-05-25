@@ -6,7 +6,7 @@
 
 I turn complex data into clear, actionable insights.
 
-With hands-on experience in **Power BI, SQL, Excel, Tableau**, and **Python (Pandas, Seaborn, Matplotlib)**, I build dynamic dashboards, develop predictive models, and craft compelling data stories. From **forecasting revenue growth** to **analyzing customer churn**, my projects span industries like **healthcare, e-commerce, HR, agriculture**, and **telecom**.
+With hands-on experience in **Power BI, SQL, Excel, Tableau**, and **Python (Pandas, Seaborn, Matplotlib)**, I build dynamic dashboards, develop predictive models, and craft compelling data stories. From **forecasting revenue growth** to **analyzing customer churn**, my projects span industries like **healthcare, e-commerce, HR, agriculture**, and **telecom** etc.
 
 🚀 What sets me apart? I integrate **AI tools** like **ChatGPT, Vertex AI, Power BI Copilot**, and **prompt engineering** into my workflow to accelerate analysis, automate insights, and solve problems faster and smarter.
 
