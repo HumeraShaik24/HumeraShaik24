@@ -30,7 +30,7 @@ With hands-on experience in **Power BI, SQL, Excel, Tableau**, and **Python (Pan
 - **🩺 Diabetes Prediction** — Built ML model for patient outcome classification  
 - **🌱 Fertilizer Efficiency Dashboard** — Showed 22% yield improvement potential
 
-> See more in my portfolio or GitHub project section.
+> See more in my portfolio or [GitHub](https://github.com/HumeraShaik24) project section.
 
 ---
 
