@@ -17,8 +17,8 @@ With hands-on experience in **Power BI, SQL, Excel, Tableau**, and **Python (Pan
 - **Languages & Libraries:** Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn  
 - **BI & Visualization:** Power BI (incl. DAX, Copilot), Tableau, Excel (Advanced)  
 - **Databases:** SQL, PostgreSQL  
-- **AI Tools:** ChatGPT, Vertex AI, Gemini, Prompt Engineering  
-- **Strengths:** Data Cleaning, EDA, Forecasting, ML Modeling, Business Storytelling, Automation
+- **AI Tools:** ChatGPT, Vertex AI, Copilot, Claude.ai, Gemini etc
+- **Strengths:** Data Cleaning, EDA, Forecasting, ML Modeling, Business Storytelling, Automation, Prompt engineering.
 
 ---
 
