@@ -46,7 +46,8 @@ With hands-on experience in **Power BI, SQL, Excel, Tableau**, and **Python (Pan
 ## 📫 Let’s Connect
 
 - 📧 humerah610@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/humerashaik-dataanalyst/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/humerashaik-dataanalyst/)
+- 🧾 .[Portfolio](https://humerashaik24.github.io/View-my-portfolio/)
 - 📊 [GitHub](https://github.com/HumeraShaik24)
 
 ---
