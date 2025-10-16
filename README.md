@@ -24,7 +24,7 @@ With hands-on experience in **Power BI, SQL, Excel, Tableau**, and **Python (Pan
 
 ## 📊 Featured Projects
 
-- **📈 Dynamic Pricing Model** — Predicted 15% revenue growth using regression + Power BI  
+- **📈 Dynamic Pricing Model** — Predicted 15% revenue growth using regression + Excel  
 - **🧠 Sentiment Analysis** — Achieved 92% accuracy on social media data  
 - **💼 HR Analytics** — Reduced attrition insights by 38% using Tableau dashboards  
 - **🩺 Diabetes Prediction** — Built ML model for patient outcome classification  
